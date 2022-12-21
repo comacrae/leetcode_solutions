@@ -1,9 +1,9 @@
-*Problem 498: Spiral Matrix*
-![image](https://user-images.githubusercontent.com/76566137/208915314-4840853b-d106-49df-8ef0-6552f9b4462c.png)
+*Problem 498: Diagonal Traverse*
 
+![image](https://user-images.githubusercontent.com/76566137/208916743-b6c4b18a-4cd3-490a-b59f-676d9019db89.png)
 
 # Problem statement
-Given an m x n matrix, return all elements of the matrix in spiral order.
+Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
 # Intuition
 My intuition was to simulate the traversal of the "pointer" outright, but this turned out to be overly complex as I had to account for 8 (technically 6) conditions when the pointer was out of bounds for each edge, and two corners. I spent roughly 3 hours until I finally gave up and looked at the solution. Following the approach of just reading diagonals from top right to bottom left and then reversing the order of the read copy, I was able to solve the problem.
 # Approach
