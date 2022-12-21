@@ -1,4 +1,4 @@
-*Problem 498: Diagonal Traverse*
+# 498. Spiral Matrix
 
 ![image](https://user-images.githubusercontent.com/76566137/208916743-b6c4b18a-4cd3-490a-b59f-676d9019db89.png)
 
