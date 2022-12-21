@@ -1,4 +1,4 @@
-# 54. Spiral Matrix
+# [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/solutions/2935537/c-spiral-matrix-solution/) (Linked to Leetcode solution)
 ![image](https://user-images.githubusercontent.com/76566137/208917031-c1006618-7fb1-4d75-a288-38854ca0c09b.png)
 
 # Problem Statement
