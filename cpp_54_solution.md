@@ -1,7 +1,7 @@
-#54. Spiral Matrix
+# 54. Spiral Matrix
 ![image](https://user-images.githubusercontent.com/76566137/208917031-c1006618-7fb1-4d75-a288-38854ca0c09b.png)
 
-#Problem Statement
+# Problem Statement
 Given an m x n matrix, return all elements of the matrix in spiral order.
 
 # Intuition
