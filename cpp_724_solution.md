@@ -1,4 +1,5 @@
 # 724. Find Pivot Index
+![image](https://user-images.githubusercontent.com/76566137/208920960-1760d500-0885-4261-bb7e-269ea8b9ee9e.png)
 
 ## [Link to Problem Description](https://leetcode.com/problems/find-pivot-index/description/)
 
