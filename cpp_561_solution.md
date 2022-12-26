@@ -16,7 +16,7 @@ I implemented the quicksort function by hand using the following source as a gui
 $$O(n^2)$$ because this is the time complexity for quicksort (plus the $$n/2$$ steps for addition which are negligible compared to the $$n^2$$ worst case steps for quicksort)
 
 - Space complexity:
-$$O(1)$$ because quicksort is in place and no other data structures are used.
+$$O(logn)$$ because quicksort is used and this many calls are placed on the stack.
 
 # Code
 ```
