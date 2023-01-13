@@ -1,6 +1,6 @@
-#[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+# [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 
-#[My Solution](https://leetcode.com/problems/contains-duplicate-ii/solutions/3047146/c-solution/)
+# [My Solution](https://leetcode.com/problems/contains-duplicate-ii/solutions/3047146/c-solution/)
 
 ![image](https://user-images.githubusercontent.com/76566137/212415482-18e8cc09-ecfd-4e17-abb5-a7f374b7e471.png)
 
